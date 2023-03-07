@@ -1,0 +1,1 @@
+Buscar clima/temperatura em JavaScript por localização
